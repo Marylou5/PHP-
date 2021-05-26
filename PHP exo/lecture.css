@@ -1,0 +1,32 @@
+div{
+  margin: auto;
+  width: 600px;
+  margin-bottom: 20px;
+} 
+label{
+  display: block;
+  width: 150px;
+  float: left;
+}
+ thead{
+   background: #c4f2cd;
+
+ }
+ tbody{
+   background: #e9def2;
+   color: white
+ }
+   td,th{
+     width: 100px;
+     text-align: center;
+     border: 1px solid white;
+   }
+   a{
+     color: white;
+   }
+ 
+   .message{
+     background: #c4f2cd;
+     color:white;
+     padding: 5px;
+   }
